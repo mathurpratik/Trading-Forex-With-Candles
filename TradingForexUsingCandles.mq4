@@ -1,9 +1,9 @@
 //+------------------------------------------------------------------+
-//|                                               ThomasAnthony3.mq4 |
-//|                      Copyright © 2011, MetaQuotes Software Corp. |
-//|                                        http://www.metaquotes.net |
+//|                  Pratik Mathur                                   |
+//|                  mathurpratik@gmail.com                          |
+//|                                                                  |
 //+------------------------------------------------------------------+
-#property copyright "Copyright © 2011, MetaQuotes Software Corp."
+#property copyright "Copyright Â© 2011, MetaQuotes Software Corp."
 #property link      "http://www.metaquotes.net"
 #include <stdlib.mqh>
 #include <WinUser32.mqh>
